@@ -36,7 +36,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/npeguin.github.io\/office-map\/map.json"
+                 "value":"_\/global\/npeguin.github.io\/office-map\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
