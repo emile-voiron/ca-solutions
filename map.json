@@ -36,7 +36,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/_\/global\/npeguin.github.io\/office-map\/map.json"
+                 "value":"https:\/\/npeguin.github.io\/corridor-map\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
