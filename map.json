@@ -36,7 +36,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/npeguin.github.io\/corridor-map\/map.json"
+                 "value":".\/cacom.json#startGrenoble"
                 }],
          "type":"tilelayer",
          "visible":true,
