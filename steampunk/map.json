@@ -1,5 +1,4 @@
-{ "backgroundcolor":"#000000",
- "compressionlevel":-1,
+{ "compressionlevel":-1,
  "height":28,
  "infinite":true,
  "layers":[
@@ -106,7 +105,7 @@
          "height":48,
          "id":3,
          "name":"collisionmap",
-         "opacity":0.46,
+         "opacity":0.43,
          "properties":[
                 {
                  "name":"collides",
