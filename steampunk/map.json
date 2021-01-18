@@ -601,7 +601,7 @@
         {
          "draworder":"topdown",
          "id":3,
-         "name":"Object Layer 1",
+         "name":"floorLayer",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
